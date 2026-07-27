@@ -112,4 +112,4 @@ This analysis demonstrates how data analytics can uncover user behavior patterns
 Aspiring Data Analyst
 
 - LinkedIn: www.linkedin.com/in/sanjana-parihar
-- GitHub: https://github.com/sanjanakhushi
+- GitHub: https://github.com/sanjanaparihar
